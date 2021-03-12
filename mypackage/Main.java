@@ -31,7 +31,7 @@ public class Main {
                 JOptionPane.showMessageDialog(null,names[5]);
                 break;
             default:
-                JOptionPane.showMessageDialog(null,"Unesi ponovo neki broj");
+                JOptionPane.showMessageDialog(null,"Enter some Number!");
         }
     }
 }
